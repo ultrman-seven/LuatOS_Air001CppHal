@@ -1,0 +1,11 @@
+test
+DebugConfig
+Listings
+Objects
+.vscode
+*.uvguix.*
+*.uvoptx
+JLinkLog.txt
+JLinkSettings.ini
+info
+projects
